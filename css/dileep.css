@@ -1,0 +1,46 @@
+.first {
+    font-size: 15px;
+    font-family: sans-serif;
+
+    
+}
+
+.second{
+    font-size: 17px;
+    font-family: sans-serif;
+ }
+.third{
+    font-size: 20px;
+    font-family: sans-serif;
+   }
+
+.fourth{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 2px;
+}
+ .fifth{
+        font-size: 15px;
+        font-family: sans-serif;
+        padding: 20px;
+        margin: 2px;
+    }
+}
+.sixth{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 2px;
+}
+.seventh{
+    font-size: 10px;
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 2px;
+}
+.main{
+    font-family: sans-serif;
+.parents{
+    border: 2px solid black;
+}
